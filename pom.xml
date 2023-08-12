@@ -72,7 +72,12 @@
             <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
-
+<!--https://mvnrepository.com/artifact/com.avenstack/extentreports-->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>4.0.9</version>
+        </dependency>
 
     </dependencies>
 </project>
